@@ -14,7 +14,7 @@ kiwisolver==1.0.1
 matplotlib==2.2.3
 mord==0.6
 nltk==3.3
-numpy==1.13.0
+numpy==1.22.0
 pandas==0.23.4
 pyparsing==2.2.0
 python-dateutil==2.7.3
